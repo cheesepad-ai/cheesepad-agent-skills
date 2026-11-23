@@ -6,6 +6,7 @@ description: |
   or refund. Also for "Agent ID only" curves and sales, Agent ID holder whitelists, CheesePad
   launchpad, melt pool, graduated curve, max per wallet, BSC or Robinhood Chain launches, and any
   request that mentions CheesePad together with an Agentic Wallet or `baw`.
+license: MIT
 metadata:
   author: cheesepad
   version: '1.0.0'
@@ -27,7 +28,7 @@ returns ready-to-send transaction steps. You send each one with `baw contract-ca
 
 API base: `https://api.cheesepad.ai` (public, no login).
 
-Install line for users: `Install the CheesePad skill from https://www.cheesepad.ai/agent-skill/cheesepad/SKILL.md`
+Install line for users: `Install the CheesePad skill from https://github.com/cheesepad-ai/cheesepad-agent-skills`
 
 ## Command routing
 
